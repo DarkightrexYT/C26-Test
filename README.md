@@ -1,2 +1,3 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+# angryBirdsStage2.5 with git commands
+
+D:\Coding Class\C26\AngryBirdsStage2.5StudentActivity\README.md
